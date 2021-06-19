@@ -1,2 +1,2 @@
-# Boltr-Swap-SDK
+# Boltr SDK 
 ![logo](public/boltrGITSDK.jpg) 
