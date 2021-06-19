@@ -1,5 +1,5 @@
 
-![Surface Core](https://github.com/boltrswap/Boltr-Swap-SDK/blob/main/boltrGITSDK.jpg) 
+![BoltrSDK](https://github.com/boltrswap/Boltr-Swap-SDK/blob/main/boltrGITSDK.jpg) 
 
 
 
