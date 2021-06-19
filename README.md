@@ -1,2 +1,2 @@
 # Boltr SDK 
-![logo](public/boltrGITSDK.jpg) 
+![logo](public/boltrGITSDK.jpg)
